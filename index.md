@@ -1,3 +1,9 @@
+# CHASES FIRST CS193 HOMEWORK
+-I like that I get to understand github(I have an account I don't use :3)
+-I am no longer in CS 1800 and this allows me to engage with coding at an easier pace while learning professional manners
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,7 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
- Header 1
+# Header 1
 ## Header 2
 ### Header 3
 
