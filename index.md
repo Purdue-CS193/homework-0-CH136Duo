@@ -3,7 +3,7 @@
 -I am no longer in CS 1800 and this allows me to engage with coding at an easier pace while learning professional manners
 
 
- 
+ *This is italicized because I can*
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
